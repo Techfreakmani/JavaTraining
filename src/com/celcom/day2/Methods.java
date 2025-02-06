@@ -3,7 +3,7 @@ package com.celcom.day2;
 
 //Types ofMethods in java
 public class Methods {
-	
+	static int a =10;
 	void m1() {
 		System.out.println("Instance Method");
 	}
@@ -16,7 +16,6 @@ public class Methods {
 		Methods m = new Methods();
 		m.m1();
 		m2();
-
-	}
+		}
 
 }
