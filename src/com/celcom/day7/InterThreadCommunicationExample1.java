@@ -54,7 +54,7 @@ class Writer extends Thread{
 		}
 	}
 }
-public class ThreadExample6 {
+public class InterThreadCommunicationExample1 {
 
 	public static void main(String[] args) throws InterruptedException {
 		Resource1 resource = new Resource1();
