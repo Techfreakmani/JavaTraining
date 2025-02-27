@@ -1,3 +1,5 @@
+package com.celcom.day1;
+
 public class CommandLine1{
 	public static void main(String[] args){
 		if(args.length == 2 )

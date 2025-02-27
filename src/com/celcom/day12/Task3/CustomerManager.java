@@ -1,4 +1,4 @@
-package com.celcom.day12.Task3;
+package com.celcom.day12.task3;
 
 import java.sql.Date;
 import java.sql.PreparedStatement;

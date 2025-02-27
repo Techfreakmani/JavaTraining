@@ -1,3 +1,5 @@
+package com.celcom.day1;
+
 public class CommandLine{
 	public static void main(String[] args){
 		System.out.println("Lengthof the array:" +args.length);

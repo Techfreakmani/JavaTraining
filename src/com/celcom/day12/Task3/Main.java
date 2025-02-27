@@ -1,9 +1,13 @@
-package com.celcom.day12.Task3;
+package com.celcom.day12.task3;
 
 import java.sql.SQLException;
 import java.util.Scanner;
 
 public class Main {
+
+	static {
+		Connector.access();
+	}
 
 	public static void main(String[] args) throws SQLException {
 		Scanner sc = new Scanner(System.in);
